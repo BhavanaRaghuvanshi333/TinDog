@@ -7,8 +7,6 @@ Features :-
 4. A Beautiful Footer for Social Handles.
 
 Demo :-
-it's a big file that's why i added a video link here
-
 https://user-images.githubusercontent.com/122814768/213384122-8fe0c23d-8395-4952-8acb-c8cc206abcc7.mov
 
 
